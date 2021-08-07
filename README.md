@@ -2,7 +2,7 @@
  
 Pad sounds created with a modular synthesizer.
 
-**Supported Formats:** Logic Sampler, Kontakt&  Falcon
+**Supported Formats:** Logic Sampler, Kontakt & Falcon
 
 **[Download Audio Files](https://github.com/publicsamples/Modular-Pads/releases/tag/1.0)**
 
