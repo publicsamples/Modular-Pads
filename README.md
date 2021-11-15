@@ -4,7 +4,11 @@ Pad sounds created with a modular synthesizer.
 
 **Supported Formats:** Logic Sampler, Kontakt & Falcon
 
-**[Download Audio Files](https://github.com/publicsamples/Modular-Noise/releases/tag/1.0)**
+**[Download Audio Files](https://github.com/publicsamples/Modular-Pads/releases/tag/1.0)**
+
+## **Get help**
+
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
 
 ## **Support this project**
 
